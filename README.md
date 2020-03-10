@@ -8,6 +8,9 @@ SARS-Coronavirus-DATASET #Mask #Image #Cr. https://www.rki.de/DE/Content/Infekt/
 
 
 ##ฝากกดไลน์กดแชร์และติดตามกันด้วยนะครับ
+
 fb: https://www.facebook.com/rush.ai.dev
+
 yt: https://www.youtube.com/channel/UCkJuIgmq_nWAttNtrcx4QSg
+
 md: https://medium.com/@rush.ai.dev
